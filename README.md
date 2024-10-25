@@ -3,7 +3,8 @@
 Task Tracker CLI is a command-line application for managing tasks, designed to help you keep track of your to-do list. This CLI app allows you to add, update, delete, and track tasks by status (e.g., `todo`, `in-progress`, `done`). Task data is stored in a JSON file, making it easily accessible and modifiable.
 
 ## Project URL
-[Task Tracker CLI Project URL](https://github.com/gabrielgrc/task-tracker-cli)
+- [Task Tracker CLI GitHub Repository](https://github.com/gabrielgrc/task-tracker-cli)
+- [Roadmap.sh Task Tracker Project Page](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 - **Add tasks** with unique IDs and descriptions.
