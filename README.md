@@ -24,7 +24,9 @@ Task Tracker CLI is a command-line application for managing tasks, designed to h
    ```
 
 2. Change to the project directory:
-   Add a new task:
+   ```bash
+   cd task-tracker-cli
+   ```
 
 ### Usage
 The CLI accepts various commands to manage tasks. Below are examples of how to use each command:
